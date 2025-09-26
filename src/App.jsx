@@ -46,7 +46,7 @@ export default function App() {
       titulo: "Atividade 6 (Desafio): Card com Material-UI",
       componente: (
         <CardProdutoMUI
-          imagem="../../public/tila.png"
+          imagem="https://res.cloudinary.com/dx8lkbjpl/image/upload/v1758845288/tila_smm1fc.png"
           nome="Café Torrado Premium"
           descricao="Notas de chocolate e caramelo. Corpo médio."
           preco="59,90"
